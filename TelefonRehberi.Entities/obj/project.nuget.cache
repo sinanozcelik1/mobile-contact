@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qoZXmdhy/7OPJCVydC52KDN5Bx4J3Oi7VWXH1UOgubwMrqJEt64AXXRvEaJWhC8Jg5DVyD21AULmV7/+CwNIOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Monster\\Desktop\\githun ön yüz\\Telefon Rehberi\\TelefonRehberi.Entities\\TelefonRehberi.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

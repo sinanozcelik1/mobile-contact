@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "1HfQi93BS5pukkJxPkZhSvC79EjQcRCqxMeFZBdBc6XsxYFfxyPpxs9CEv22Yj62miLnSyKvix53Sk7l2LRC1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Monster\\Desktop\\githun ön yüz\\Telefon Rehberi\\TelefonRehberi.BLL\\TelefonRehberi.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monster\\.nuget\\packages\\csvhelper\\2.11.0\\csvhelper.2.11.0.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'CsvHelper 2.11.0' paketi, proje hedef çerçevesi '.NETStandard,Version=v2.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "CsvHelper",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
